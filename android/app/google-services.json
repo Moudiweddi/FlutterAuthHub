@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "464452797278",
+    "firebase_url": "https://lcfui-32d15-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lcfui-32d15",
+    "storage_bucket": "lcfui-32d15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464452797278:android:075b5b639ae5016d8dc5cf",
+        "android_client_info": {
+          "package_name": "com.example.testproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbLQhyAE_3hklNkvSbI4T9hZGNkutcRtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
